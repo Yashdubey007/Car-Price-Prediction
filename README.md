@@ -1,4 +1,3 @@
-# oibsip_taskno-3
 Car Price Prediction. A car price prediction project is a machine learning project that involves building a model to predict the price of a used car based on various factors such as age, mileage, condition, make and model, etc. The goal of this project is to help buyers and sellers of used cars to determine a fair price for a car in the market.
 
 To build a car price prediction model, a large dataset of used car sales is typically required. The dataset should contain information on various features of the cars, including age, mileage, condition, make and model, location, etc. The dataset can be analyzed to identify any trends or patterns that may be useful for predicting the price of a used car.
